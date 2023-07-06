@@ -38,9 +38,7 @@
 </div>
  
  <br>
- 
-  ### Onde me encontrar?
- 
+  
 <div> 
  
   ![Snake animation](https://github.com/caotista/caotista/blob/output/github-contribution-grid-snake.svg)
