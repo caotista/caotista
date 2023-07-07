@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, Devs! Sou Matheus Alves, um desenvolvedor full-stack junior no início de carreira.
+  Atualmente estou trabalhando num projeto para um ecommerce que postarei em breve neste perfil! :D
 </p>
 
 <p align="left">
