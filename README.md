@@ -26,9 +26,9 @@
 
 
  <div>
-   <a href="https://github.com/caotista">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caotista&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caotista&layout=compact&langs_count=6&theme=synthwave"/>
+   <a href="https://github.com/omatheusant">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusant&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusant&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -41,6 +41,6 @@
   
 <div> 
  
-  ![Snake animation](https://github.com/caotista/caotista/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/omatheusant/omatheusant/blob/output/github-contribution-grid-snake.svg)
 
 </div>
