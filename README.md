@@ -3,8 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, Devs! Sou Matheus Alves, um desenvolvedor full-stack junior no início de carreira.
-  Atualmente estou trabalhando num projeto para um ecommerce que postarei em breve neste perfil! :D
+  Fala, Devs! Sou Matheus Santana, um desenvolvedor frontend apaixonado por jogos e tecnologia. Atualmente estou trabalhando em dois projetos pessoais e focado nos meus estudos de programação. Acredito que a chave para o sucesso esteja em criar conexões significativas e valorizar os pequenos processos.
 </p>
 
 <p align="left">
