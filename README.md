@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Fala, Devs! Sou Matheus Santana, um Desenvolvedor Frontend apaixonado por jogos e tecnologia. Atualmente estou trabalhando em dois projetos pessoais, um site para minha loja digital e uma aplicação web em react para o meu sistema de RPG de Mesa (TTRPG). Estou também focado nos meus estudos de programação. Acredito que a chave para o sucesso esteja em criar conexões significativas e valorizar os pequenos processos.
+  Me chamo Matheus e sou um Desenvolvedor Fullstack em fase de aprendizado. Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações web do início ao fim. Sou apaixonado por jogos e tecnologia, e busco oportunidades de aprendizado, crescimento e inovação na área de desenvolvimento web.
 </p>
 
 <p align="left">
-  <strong>🦄 Linguagens:</strong> HTML, CSS, JavaScript e React.
+  <strong>🦄 Tech:</strong> React, NextJS, TypeScript, Jest, Sass, SQL e NodeJS
 </p>
 
 <p align="left">
