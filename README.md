@@ -7,17 +7,15 @@
 </p>
 
 <p align="left">
-  <strong>🦄 Tech:</strong> React, NextJS, TypeScript, Jest, Sass, SQL e NodeJS
+  <strong>🦄 Frontend:</strong> JavaScript, TypeScript, HTML, CSS, React, Jest, Testing Library, Next.js, Redux, Figma, TailwindCSS, Styled-components, SASS e Material UI
 </p>
 
 <p align="left">
-  <strong>💼 Ferramentas:</strong> VSCode, Figma e Adobe Photoshop.
+  <strong>💼 Backend:</strong> Node.js, TypeScript, Banco de Dados, PostgreSQL, API REST, GraphQL, Express, DBeaver e MongoDB.
 </p>
 
 ### 💌 Onde me encontrar 
 
-  
-  <a href="https://instagram.com/omatheusant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:santalvesmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/omatheussant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -40,6 +38,6 @@
   
 <div> 
   
-![Snake animation](https://github.com/{{omatheusant}}/{{omatheusant}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/omatheusant/omatheusant/blob/output/github-contribution-grid-snake.svg)
 
 </div>
