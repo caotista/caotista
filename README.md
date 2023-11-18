@@ -37,5 +37,7 @@
  <br>
   
 <div> 
+  
 ![Snake animation](https://github.com/omatheusant/omatheusant/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
