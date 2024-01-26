@@ -3,22 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Matheus e sou um Desenvolvedor Fullstack em fase de aprendizado. Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações web do início ao fim. Sou apaixonado por jogos e tecnologia, e busco oportunidades de aprendizado, crescimento e inovação na área de desenvolvimento web.
-</p>
-
-<p align="left">
-  <strong>🦄 Frontend:</strong> JavaScript, TypeScript, HTML, CSS, React, Jest, Testing Library, Next.js, Redux, Figma, TailwindCSS, Styled-components, SASS e Material UI
-</p>
-
-<p align="left">
-  <strong>💼 Backend:</strong> Node.js, TypeScript, Banco de Dados, PostgreSQL, API REST, GraphQL, Express, DBeaver e MongoDB.
+ Oi 👋 Eu sou Matheus Santana – designer e programador frontend com 8 meses experiência. Minha paixão pela tecnologia reside em transformar ideias em realidade com interfaces elegantes. Uso de minha expertise para criar produtos digitais que ofereçam experiência, performance e qualidade de código.
 </p>
 
 ### 💌 Onde me encontrar 
 
-  <a href = "mailto:santalvesmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mat.alvessantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/omatheussant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 
 
  <div>
