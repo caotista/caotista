@@ -3,7 +3,7 @@
     <a href="https://linkedin.com.br/in/omatheussant">Linkedin</a> .
     <a href="https://matheusant.vercel.app">Portfolio</a> .
     <a href="https://matheusant.vercel.app/#projects">Projects</a> . 
-    <a href="https://wa.me/5577981186690?text=Ol%C3%A1%21+%F0%9F%91%8B+vamos+conversar%3F">Whatsapp</a>
+    <a href="https://wa.me/5577981186690?text=Ol%C3%A1%21+%F0%9F%91%8B+vamos+conversar%3F">Contact</a>
   </samp>
 </p>
 
